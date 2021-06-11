@@ -44,7 +44,7 @@
     },
     "STREAM_URL": {
       "description": "URL of Radio station to stream when the bot starts",
-      "value": "",
+      "value": "https://radioindia.net/radio/hungamanow/icecast.audio",
       "required": false
 }
   },
