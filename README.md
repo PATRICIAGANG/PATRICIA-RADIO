@@ -1,6 +1,5 @@
-# Telegram Voice Chat Bot with Channel Support.
-
-A Telegram Bot to Play Audio in Voice Chats.
+# PRINCE_RADIO
+A Telegram Bot to Play Audiin Voice Chats.
 
 ## Deploy to Heroku
 
