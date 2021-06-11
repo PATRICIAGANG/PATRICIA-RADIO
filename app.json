@@ -1,7 +1,7 @@
 {
-  "name": "Telegram Voice Chat Music Player Bot ",
-  "description": "Telegram Bot to Play Audio in Telegram Voice Chats",
-  "repository": "https://github.com/subinps/MusicPlayer",
+  "name": "PRINCE_RADIO",
+  "description": "THIS BOT PLAY RADIO OR AUDIO FILE IN VOICE CHAT",
+  "repository": "https://github.com/prince301102/Prince_Radio",
   "keywords": [
     "telegram",
     "bot",
@@ -44,13 +44,13 @@
     },
     "STREAM_URL": {
       "description": "URL of Radio station to stream when the bot starts",
-      "value": "https://eu10.fastcast4u.com/clubfmuae",
+      "value": "",
       "required": false
 }
   },
   "buildpacks": [
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/prince301102/Prince_radio"
     },
     {
       "url": "heroku/python"
