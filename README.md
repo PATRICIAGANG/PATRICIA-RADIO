@@ -3,7 +3,7 @@ A Telegram Bot to Play Audio & Radio in Voice Chats.
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince301102/Prince_Radio)
 
 # Heroku Vars:
 1. `API_ID` : Get From my.telegram.org
