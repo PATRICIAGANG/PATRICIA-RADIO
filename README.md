@@ -1,5 +1,5 @@
 # PRINCE_RADIO
-A Telegram Bot to Play Audiin Voice Chats.
+A Telegram Bot to Play Audio & Radio in Voice Chats.
 
 ## Deploy to Heroku
 
