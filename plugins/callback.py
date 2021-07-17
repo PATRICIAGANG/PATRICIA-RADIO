@@ -1,3 +1,5 @@
+#MODIFIED BY @PIROXPOWER
+
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from pyrogram import Client, emoji
 from datetime import datetime, timedelta
