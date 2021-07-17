@@ -1,9 +1,10 @@
-# PRINCE_RADIO
-A Telegram Bot to Play Audio & Radio in Voice Chats.
+# PATRICIA-RADIO
+
+THIS BOT WILL HELP YOU PLAY RADIO IN YOUR TELEGRAM GROUP OR CHANNEL
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince301102/Prince_Radio)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-PATRICIA/PATRICIA-RADIO)
 
 # Heroku Vars:
 1. `API_ID` : Get From my.telegram.org
@@ -27,7 +28,4 @@ A Telegram Bot to Play Audio & Radio in Voice Chats.
 - Automatically downloads audio for the first two tracks in the playlist to
 - ensure smooth playing
 - Show current playing position of the audio
-
-## Credits 
-- This one is completly based on work of [Dash Eclipse's](https://github.com/dashezup) [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot). I just added Bot and Channel support.
 
