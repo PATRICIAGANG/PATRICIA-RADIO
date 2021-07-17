@@ -29,3 +29,4 @@ THIS BOT WILL HELP YOU PLAY RADIO IN YOUR TELEGRAM GROUP OR CHANNEL
 - ensure smooth playing
 - Show current playing position of the audio
 
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TEAM-PATRICIA/PATRICIA-RADIO&envs=API_HASH,API_ID,SESSION_STRING,CHAT,BOT_TOKEN,STREAM_URL,ADMINS)
