@@ -1,3 +1,5 @@
+#Modified by @piroXpower
+
 from pyrogram import Client, idle, filters
 import os
 from threading import Thread
