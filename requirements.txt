@@ -4,4 +4,4 @@ ffmpeg-python
 psutil
 py-tgcalls==0.5.2
 wheel
-tgintegration.
+tgintegration
