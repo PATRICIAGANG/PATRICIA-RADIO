@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 
 
 
-HOME_TEXT = "Helo, [{}](tg://user?id={})\n\n I am PRINCE_RADIO bot which plays music in [MUSIC + CHATS GROUP](https://t.me/music_and_chats)"
+HOME_TEXT = "Helo, [{}](tg://user?id={})\n\n I am PATRICIA📻 bot which plays music in [PATRICIA-RADIO📻](https://t.me/PATRICIA_RADIO)"
 HELP = """**Common Commands**:
 
 **/play**  Reply with an audio to play/queue it, or show playlist
@@ -34,12 +34,12 @@ HELP = """**Common Commands**:
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('BOT UPDATES🧐', url='https://t.me/PRINCEBOTA'),
-        InlineKeyboardButton('🎵MUSIC GROUP🎧', url='https://t.me/MUSIC_AND_CHATS'),
+        InlineKeyboardButton('BOT UPDATES💢', url='https://t.me/patricia_updates'),
+        InlineKeyboardButton('RADIO GROUP📻', url='https://t.me/PATRICIA_RADIO'),
     ],
     [
-        InlineKeyboardButton('⚜️OWNER⚜️', url='https://t.me/PRINCE_3011'),
-        InlineKeyboardButton('SOURCE🗃️', url='https://t.me/princebotsupport'),
+        InlineKeyboardButton('OWNER🥀', url='https://t.me/PiroXpower'),
+        InlineKeyboardButton('SOURCE-CODE💫', url='https://github.com/TEAM-PATRICIA/PATRICIA-RADIO'),
     ],
     [
         InlineKeyboardButton('Help', callback_data='help'),
