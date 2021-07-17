@@ -25,7 +25,7 @@ def stop_and_restart():
         bot.stop()
         os.execl(sys.executable, sys.executable, *sys.argv)
     
-bot.run(main())
+
 bot.start()
 @bot.on_message(filters.command("restart") & filters.user(Config.ADMINS))
 def restart(client, message):
@@ -33,6 +33,7 @@ def restart(client, message):
     Thread(
         target=stop_and_restart
         ).start()
+bot.run(main())
 
 idle()
 bot.stop()
